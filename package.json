@@ -1,6 +1,6 @@
 {
   "name": "thanos-sh",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "if you are Thanos(root), this command could delete half your files randomly",
   "main": "./index.js",
   "repository": "https://github.com/Himself65/Thanos.js.git",
