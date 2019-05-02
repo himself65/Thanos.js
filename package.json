@@ -1,0 +1,20 @@
+{
+  "name": "thanos-sh",
+  "version": "0.1.0",
+  "description": "if you are Thanos(root), this command could delete half your files randomly",
+  "main": "./index.js",
+  "repository": "https://github.com/Himself65/Thanos.js.git",
+  "author": "himself65 <himself65@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^11.13.8"
+  },
+  "bin": {
+    "thanosjs": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs-extra": "^7.0.1"
+  }
+}
